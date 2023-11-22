@@ -46,5 +46,6 @@ Algunas características destacadas:
 
 ## Contáctame
 - [Correo electrónico](sared646@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/sared5849242a0/)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. 😊
