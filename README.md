@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 
-- 🎓 Actualmente cursando Ingeniería de Programación.
+- 🎓 Actualmente cursando Ingeniería en Desarrpllo y Gestion de Software.
 - 💻 Apasionado por la resolución de problemas y la creación de soluciones eficientes.
 - 🚀 Siempre buscando aprender y mejorar mis habilidades de desarrollo.
 
@@ -16,7 +16,7 @@
 
 ## Proyectos destacados
 
-### [FelineStudyHub](enlace-al-repositorio-felinestudyhub)
+### [FelineStudyHub](https://github.com/SaredG/FelineStudyHub)
 
 FelineStudyHub es una aplicación móvil desarrollada en React Native que combina utilidades de estudio, gestión financiera y entretenimiento, todo con la temática felina. Ofrece a los usuarios una amplia gama de funciones para mejorar su organización personal y disfrutar de una experiencia única.
 
@@ -28,7 +28,7 @@ Algunas características destacadas:
 
 ¡Estoy muy orgulloso/a de este proyecto y sería genial recibir tu feedback!
 
-### [Springfield Explorer](enlace-al-repositorio-springfield-explorer)
+### [Springfield Explorer](https://github.com/OmarPerezGutierrez/SpringfieldExplorer2)
 
 Springfield Explorer es una aplicación web que te permite explorar curiosidades y personajes del mundo de Springfield. Esta aplicación ha sido desarrollada como una Progressive Web App (PWA), lo que significa que puedes disfrutar de muchas de sus funciones incluso cuando estás offline.
 
@@ -45,8 +45,6 @@ Algunas características destacadas:
 ¡Me encanta colaborar en proyectos emocionantes! Si estás trabajando en algo interesante y crees que puedo contribuir, no dudes en contactarme.
 
 ## Contáctame
-
-- 
 - [Correo electrónico](sared646@gmail.com)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. 😊
